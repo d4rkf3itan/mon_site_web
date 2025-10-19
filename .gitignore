@@ -1,4 +1,4 @@
-tmp/*.txt
 tmp/*
 .xml
 *.js
+.sas
